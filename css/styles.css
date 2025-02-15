@@ -1,3 +1,19 @@
 .container-xl {
   padding: 60px !important;
 }
+
+.bg-success {
+  width: 25%;
+}
+
+.bg-info {
+  width: 50%;
+}
+
+.bg-warning {
+  width: 75%;
+}
+
+.bg-danger {
+  width: 100%;
+}
